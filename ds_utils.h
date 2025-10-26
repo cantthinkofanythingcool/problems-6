@@ -2,12 +2,12 @@
 // Created by catherine janet on 26/10/25.
 //
 
-#ifndef DS_UTILS_H
-#define DS_UTILS_H
+#ifndef ds_utils.h
+#define ds_utils.h
 
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <string.h>
 // ====================== Doubly Linked List ======================
 typedef struct DNode {
     int data;
